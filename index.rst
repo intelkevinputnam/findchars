@@ -56,7 +56,7 @@ Fun fact: the original Lingo was hosted by Michael Reagan, whose father was at t
 
 Lingo’s age rating is “4+”. It strikes me as wrong that any game with in-app purchases should be rated for young children. Real-world casinos don’t have slot machines for children; the App Store shouldn’t either. ↩︎︎
 
-
+This is ugly.
 
 Indices and tables
 ==================
